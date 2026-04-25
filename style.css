@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+input, button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+}
